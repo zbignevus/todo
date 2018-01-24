@@ -1,4 +1,4 @@
-This project was bootstrapped by using React-Create-App npm module.
+This project was bootstrapped by using <code>React-Create-App</code> npm module.
 
 This is a Todo application that I have created by using React for building components for the front-end and tied it up with a database deployed on Firebase.
 
